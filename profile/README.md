@@ -2,6 +2,7 @@
 
 If you're diving deep into the world of Roblox scripting, you've probably heard whispers about **Zorara Executor**. Known for its **speed**, **stability**, and **user-friendly interface**, this powerful tool has carved a niche in the script execution landscape. Whether you're a seasoned scripter or a curious newbie, this article walks you through everything you need to know about Zorara Executor — including features, comparisons, and how it stands out from other tools in the scene.
 
+[![Download Zorara](https://img.shields.io/badge/Download-Zorara-blueviolet)](https://rotools.bitbucket.io/executors/zorara)
 ## 🔍 What is Zorara Executor?
 
 **Zorara Executor** is a Roblox script tool designed to run custom scripts within the Roblox platform. It allows users to inject and execute Lua scripts, unlocking gameplay modifications, enhancements, and creative automation options — all without the sluggish performance or crashes found in many lesser executors.
